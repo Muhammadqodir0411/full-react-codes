@@ -2,7 +2,9 @@ import React from 'react'
 
 const App = () => {
   return (
-    <div>App</div>
+    <div>
+      <h2>New branch</h2>
+    </div>
   )
 }
 
